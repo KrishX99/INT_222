@@ -1,0 +1,16 @@
+body{
+  color:#eeee;
+  background: #222;;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container{
+  margin: 5rem;
+}
+
+input{
+  padding:1rem;
+  margin: 2rem;
+  border-radius: 0.5rem;
+}
